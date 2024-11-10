@@ -51,7 +51,7 @@ CSS – for basic styling
 
 
 ## Folder Structure
-'''bash
+'''csharp
 hello-react/
 ├── public/             # Public assets
 ├── src/
