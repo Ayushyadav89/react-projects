@@ -26,20 +26,21 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hello-react.git
+   https://github.com/Ayushyadav89/react-projects.git
    cd hello-react
 
 2. Install dependencies:
- '''npm install
+ '''bash
+npm install
 Or with yarn:
-'''yarn install
+'''bash
+yarn install
 
-Usage
+## Usage
 To start the development server and view the project:
-'''npm start
-Or with yarn:
+'''bash
+npm start
 
-yarn start
 Visit http://localhost:3000 to view the project.
 
 
@@ -50,7 +51,8 @@ CSS – for basic styling
 
 
 ## Folder Structure
-''' hello-react/
+'''bash
+hello-react/
 ├── public/             # Public assets
 ├── src/
 │   ├── components/     # Reusable components
