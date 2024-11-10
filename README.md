@@ -51,8 +51,7 @@ CSS – for basic styling
 
 
 ## Folder Structure
-'''csharp
-hello-react/
+'''csharp hello-react/
 ├── public/             # Public assets
 ├── src/
 │   ├── components/     # Reusable components
