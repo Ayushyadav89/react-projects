@@ -30,13 +30,13 @@
    cd hello-react
 
 2. Install dependencies:
-   '''bash
+   
    npm install
 
 ## Usage
 To start the development server and view the project:
 
-npm start
+   npm start
 
 Visit http://localhost:3000 to view the project.
 
