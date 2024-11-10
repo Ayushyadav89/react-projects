@@ -30,16 +30,14 @@
    cd hello-react
 
 2. Install dependencies:
- '''bash
-npm install
-Or with yarn:
-'''bash
-yarn install
+   '''bash
+   npm install
 
 ## Usage
 To start the development server and view the project:
-   '''bash
-   npm start
+
+    '''bash
+    npm start
 
 Visit http://localhost:3000 to view the project.
 
@@ -51,7 +49,7 @@ CSS – for basic styling
 
 
 ## Folder Structure
-    '''csharp 
+
     hello-react/
     ├── public/             # Public assets
     ├── src/
