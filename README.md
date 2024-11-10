@@ -38,8 +38,8 @@ yarn install
 
 ## Usage
 To start the development server and view the project:
-'''bash
-npm start
+   '''bash
+   npm start
 
 Visit http://localhost:3000 to view the project.
 
@@ -51,10 +51,11 @@ CSS – for basic styling
 
 
 ## Folder Structure
-'''csharp hello-react/
-├── public/             # Public assets
-├── src/
-│   ├── components/     # Reusable components
-│   ├── App.js          # Main app component
-│   └── index.js        # Entry point
-└── README.md           # Project documentation
+    '''csharp 
+    hello-react/
+    ├── public/             # Public assets
+    ├── src/
+    │   ├── components/     # Reusable components
+    │   ├── App.js          # Main app component
+    │   └── index.js        # Entry point
+    └── README.md           # Project documentation
